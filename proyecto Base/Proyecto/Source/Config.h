@@ -4,8 +4,8 @@
 #define GL_GLEXT_PROTOTYPES
 #define VERSION "0.0.7"
 
-#define WIDTH_SCREEN 640
-#define HEIGHT_SCREEN 640
+#define WIDTH_SCREEN 480
+#define HEIGHT_SCREEN 800
 
 #define BORDE_IZQUIERDO 1<<0
 #define BORDE_SUPERIOR  1<<1
